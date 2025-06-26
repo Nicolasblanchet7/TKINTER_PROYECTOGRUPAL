@@ -1,6 +1,6 @@
 # TKINTER_PROYECTOGRUPAL
 el proyecto consta de 3 proyectos(pedidos,cacluladoraimc,fixture deportivo
-# 🧠 Proyecto Final de Programación en Python
+# 🧠 Proyecto de Programación en Python
 
 ## 👥 Integrantes del grupo
 
